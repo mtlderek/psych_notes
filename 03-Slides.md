@@ -10,14 +10,9 @@
 * Characteristics of a Group that is Performing Effectively
 * Check Points for Team Leader
 * Tuckman's Group Development Model
-  * Forming
-  * Storming
-  * Norming
-  * Performing
-  * Adjourning
 
 ## Brainstorming
-Brainstorming has 2 phases:
+Brainstorming has **2** phases:
 1. The brainstorming period itself.
 2. The evaluation period.
 
@@ -31,14 +26,14 @@ There are 6:
 6. Test selected solutions.
 
 ## Decision-Making Methods
-There are 3 Decision-Making Methods.
+There are **3** Decision-Making Methods.
 1. Authority
 2. Majority rule
 3. Consensus
 
 ## Leadership
 ### Definitions
-Leaderships is defined in 2 different ways in research and theory.
+Leaderships is defined in **2** different ways in research and theory.
 
 1. >Leadership is the process of influencing the thoughts, feelings, and behaviours of a group members and establishing the direction that others follows; leadership and influence are parts of the same skill.
 
@@ -74,21 +69,6 @@ The group encourages everyone to take responsibility, and hard work is recognize
 
 ### Tuckman's Group Development Model
 The are **5** phases.
-
-### Forming
-Team acquaint and establishes ground rules formalities are preserved and members are treated as strangers.
-
-### Storming
-Members start to communicate their feelings but still view themselves as individuals rather than part of the team. They resist control by group leaders and show hostility.
-
-### Norming
-People feel part of the team and realize that they can achieve work if they accept other viewpoints.
-
-### Performing
-The team works in an open and trusting atmosphere where flexibility is the key and hierarchy is of little importance.
-
-### Adjourning
-The team conducts an assessment of the year and implements a plan for transitioning roles and recognizing members' contributions.
 
 | Phase     | Definition    |
 | :------------- | :------------- |
